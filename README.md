@@ -1,5 +1,7 @@
-Calculadora Ionic
-Este repositório contém um projeto desenvolvido como parte de um trabalho acadêmico na faculdade. A proposta do projeto era criar uma calculadora web utilizando as tecnologias HTML, CSS, JavaScript e TypeScript. A calculadora é uma aplicação simples, mas representa uma oportunidade valiosa para explorar e aplicar conceitos fundamentais dessas linguagens.
+<h1> Calculadora Ionic
+Este repositório contém um projeto desenvolvido como parte de um trabalho acadêmico na faculdade. A proposta do projeto era criar uma calculadora web utilizando as tecnologias HTML, CSS, JavaScript e              TypeScript. A calculadora é uma aplicação simples, mas representa uma oportunidade valiosa para explorar e aplicar conceitos fundamentais dessas linguagens.
+</h1>
+
 
 Funcionalidades:
 A calculadora desenvolvida possui as seguintes funcionalidades:
