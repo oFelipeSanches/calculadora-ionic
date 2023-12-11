@@ -1,6 +1,7 @@
-<h1> Calculadora Ionic
+<h1> Calculadora Ionic</h1>
+
+
 Este repositório contém um projeto desenvolvido como parte de um trabalho acadêmico na faculdade. A proposta do projeto era criar uma calculadora web utilizando as tecnologias HTML, CSS, JavaScript e              TypeScript. A calculadora é uma aplicação simples, mas representa uma oportunidade valiosa para explorar e aplicar conceitos fundamentais dessas linguagens.
-</h1>
 
 
 Funcionalidades:
@@ -25,3 +26,4 @@ index.html: Arquivo principal que contém a estrutura da página web.
 style.css: Arquivo de estilo para personalizar a aparência da calculadora.
 script.ts (e script.js): Implementação das funcionalidades da calculadora em TypeScript (também compilado para JavaScript).
 outros arquivos...
+
